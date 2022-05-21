@@ -13,6 +13,7 @@ His hexes start in the upper left corner, and the CPUs in the upper right, takin
 - click-listener on object done
 - playingfield generator todo
 - menu todo
+- finding a handy way to upload to git, ironically todo
 
 ## what did not work so far
 - 2d non-sprite geometry -> can only be applied in fixed-update and even then is glitchy
